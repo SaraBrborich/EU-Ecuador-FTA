@@ -44,4 +44,4 @@ Expected auxiliary files include:
 
 ## `$eulas_workData`
 
-This is a local restricted directory for all derived firm-level `.dta` files. It must remain outside the Git repository.
+This is a local restricted directory for all derived firm-level `.dta` files.
