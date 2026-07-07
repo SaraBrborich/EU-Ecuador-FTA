@@ -56,4 +56,4 @@ The source code is released under the MIT License; see [`LICENSE`](LICENSE). The
 
 ## Citation
 
-Citation metadata are available in [`CITATION.cff`](CITATION.cff). The chapter citation should be updated after the book's final bibliographic information becomes available.
+Citation metadata are available in [`CITATION.cff`](CITATION.cff) and [`CITATION.bib`](CITATION.bib).
