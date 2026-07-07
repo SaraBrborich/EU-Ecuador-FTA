@@ -1,0 +1,45 @@
+# Local Stata configuration
+config/config.do
+
+# Working chapter is included in the local package but held back from GitHub
+# until the editor authorizes public distribution.
+documents/chapter/*.docx
+!documents/chapter/README.md
+
+# Restricted and derived microdata
+*.dta
+*.csv
+*.sav
+*.parquet
+*.rds
+data/raw/
+data/intermediate/
+data/processed/
+
+# Keep documentation placeholders
+!data/README.md
+!output/**/README.md
+
+# Generated outputs (remove the leading # to track selected final outputs)
+output/figures/*
+output/figure_data/*
+output/tables/*
+output/logs/*
+!output/figures/README.md
+!output/figure_data/README.md
+!output/tables/README.md
+!output/logs/README.md
+
+# Stata temporary files
+*.smcl
+*.log
+*.gph
+*.stswp
+
+# Office temporary files
+~$*.docx
+~$*.xlsx
+
+# Operating-system files
+.DS_Store
+Thumbs.db

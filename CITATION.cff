@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this replication package, please cite the repository and the associated book chapter."
+title: "EU-Ecuador-FTA: Replication Code and Online Appendix"
+type: software
+version: 1.0.0
+date-released: 2026-07-07
+repository-code: "https://github.com/SaraBrborich/EU-Ecuador-FTA"
+authors:
+  - family-names: "Uribe-Terán"
+    given-names: "Carlos"
+    email: "cauribe@usfq.edu.ec"
+    affiliation: "School of Economics, Universidad San Francisco de Quito"
+  - family-names: "Grijalva"
+    given-names: "Diego F."
+    email: "dgrijalva@usfq.edu.ec"
+    affiliation: "School of Business, Universidad San Francisco de Quito"
+  - family-names: "Brborich"
+    given-names: "Sara"
+    email: "sbrborich@uni-bonn.de"
+    affiliation: "Bonn Graduate School of Economics, University of Bonn"
+preferred-citation:
+  type: book-chapter
+  title: "From Preferences to Reciprocity: Firm Adjustment after the EU-Ecuador Free Trade Agreement"
+  authors:
+    - family-names: "Uribe-Terán"
+      given-names: "Carlos"
+    - family-names: "Grijalva"
+      given-names: "Diego F."
+    - family-names: "Brborich"
+      given-names: "Sara"
+  year: 2026
+  notes: "Update editors, book title, publisher, pages, and DOI after publication."
