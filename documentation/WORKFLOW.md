@@ -47,4 +47,4 @@ All prepared files
                 -> chapter summary and appendix tables
 ```
 
-All `.dta` files shown above remain in the restricted working-data directory and are not committed to GitHub.
+All `.dta` files shown above remain in the restricted working-data directory.
