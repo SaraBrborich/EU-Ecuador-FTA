@@ -54,7 +54,3 @@ The master file executes the following blocks according to the switches in `conf
 - The tariff shift is measured relative to 2016.
 - The instrument is constructed only for imports, matching the empirical design in the chapter.
 - 2023 remains the calendar-year label in all saved results. A separate compressed time index is used internally where Stata lag operators require a consecutive panel after omitting 2022.
-
-## 6. Verification
-
-Because the public package does not contain the confidential data, the reorganized code could not be executed end-to-end in the public environment in which the package was assembled. The code was statically reviewed for paths, dependencies, duplicated instrument construction, commented legacy blocks, and output names. Authorized users should compare generated coefficients and figures with the online appendix before releasing a tagged replication version.
